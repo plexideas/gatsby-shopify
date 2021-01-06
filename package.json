@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-plexideas-starter",
+  "name": "gatsby-shopify",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Simple e-commerce webapp",
   "version": "0.1.0",
   "author": "Sergei Sakharovskii <plexideas@gmail.com>",
   "dependencies": {
@@ -17,6 +17,7 @@
     "gatsby-plugin-sharp": "^2.8.0",
     "gatsby-plugin-styled-components": "^3.7.0",
     "gatsby-source-filesystem": "^2.5.0",
+    "gatsby-source-shopify": "^3.7.1",
     "gatsby-transformer-sharp": "^2.6.0",
     "prop-types": "^15.7.2",
     "query-string": "^6.13.7",
@@ -24,6 +25,7 @@
     "react-dom": "^16.12.0",
     "react-helmet": "^6.1.0",
     "react-icons": "^4.1.0",
+    "shopify-buy": "^2.11.0",
     "styled-components": "^5.2.1",
     "styled-reset": "^4.3.4"
   },
